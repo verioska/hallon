@@ -1,0 +1,7 @@
+{
+  "name": "hallon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
